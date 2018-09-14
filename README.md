@@ -35,7 +35,7 @@ For example
     python main.py
     
 # Examples
-If convinient, show some examples of the results you obtained during the project. 
+If convenient, show some examples of the results you obtained during the project. 
     
 # References
 A list of references of other works that you may have used. At least the reference to the dataset must be included.
